@@ -1,6 +1,17 @@
 DragSortListView
 ================
 
+
+
+![AutoImageSwither](https://github.com/longtaoge/AutoImageSwither/blob/master/AutoImageSwither.gif)
+
+
+
+
+
+
+
+
 # NOTICE: No longer maintained.
 
 I do not have much time to devote to this project so I am
