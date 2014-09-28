@@ -1,9 +1,9 @@
 DragSortListView
 ================
 
+可以滑动删除，排序的listview 
 
-
-![AutoImageSwither](https://github.com/longtaoge/AutoImageSwither/blob/master/AutoImageSwither.gif)
+![drag_sortdemos](https://github.com/longtaoge/drag-sort-listview/blob/master/drag_sort_demos.gif)
 
 
 
